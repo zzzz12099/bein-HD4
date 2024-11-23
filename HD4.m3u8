@@ -1,3 +1,3 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=200000,RESOLUTION=368x208
-http://a501.variety-buy.store/api/channel/24
+http://102.38.4.226:80/live/gitest/gitest/9.m3u8
